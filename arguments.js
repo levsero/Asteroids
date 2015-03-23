@@ -7,8 +7,6 @@ sum = function () {
   return sum;
 }
 
-//console.log(sum(1,2,3,4));
-
 Function.prototype.myBind = function(context) {
   var fn = this;
   var args = [].slice.call(arguments, 1);
