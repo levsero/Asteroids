@@ -8,7 +8,7 @@ The classic atari game of asteroids brought to life in the browser.
 
 ## Technical Details
 - Built in js and an HTML5 canvas
-- Makes use of OOP for the many different moving objects
+- Makes use of OOP for the many different [moving objects](https://github.com/levsero/Asteroids/blob/master/lib/movingObject.js) 
 - Uses trig functions to track the direction of flying
 
 ## TODO
